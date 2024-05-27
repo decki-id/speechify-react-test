@@ -1,5 +1,8 @@
 # Speechify React Test
 
+A repository from Speechify, provided for recruitment test.<br>
+This repository contains a React framework skeleton as well as the back-end ExpressJS API server located on /api directory.
+
 ## Project Overview
 
 Create a TTS web app with indications for the current reading sentence, as well as the ability to highlight the currently playing word.

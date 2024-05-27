@@ -1,4 +1,4 @@
-# Speechify Web Functional Test
+# Speechify React Test
 
 ## Project Overview
 
